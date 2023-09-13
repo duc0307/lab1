@@ -1,0 +1,10 @@
+C:\Users\Hoang Van Duc\source\repos\winfrom\winfrom\bin\Debug\winfrom.exe.config
+C:\Users\Hoang Van Duc\source\repos\winfrom\winfrom\bin\Debug\winfrom.exe
+C:\Users\Hoang Van Duc\source\repos\winfrom\winfrom\bin\Debug\winfrom.pdb
+C:\Users\Hoang Van Duc\source\repos\winfrom\winfrom\obj\Debug\winfrom.csproj.AssemblyReference.cache
+C:\Users\Hoang Van Duc\source\repos\winfrom\winfrom\obj\Debug\winfrom.Form1.resources
+C:\Users\Hoang Van Duc\source\repos\winfrom\winfrom\obj\Debug\winfrom.Properties.Resources.resources
+C:\Users\Hoang Van Duc\source\repos\winfrom\winfrom\obj\Debug\winfrom.csproj.GenerateResource.cache
+C:\Users\Hoang Van Duc\source\repos\winfrom\winfrom\obj\Debug\winfrom.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Van Duc\source\repos\winfrom\winfrom\obj\Debug\winfrom.exe
+C:\Users\Hoang Van Duc\source\repos\winfrom\winfrom\obj\Debug\winfrom.pdb

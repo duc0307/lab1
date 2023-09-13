@@ -1,0 +1,9 @@
+C:\Users\Hoang Van Duc\source\repos\window\window\bin\Debug\window.exe.config
+C:\Users\Hoang Van Duc\source\repos\window\window\bin\Debug\window.exe
+C:\Users\Hoang Van Duc\source\repos\window\window\bin\Debug\window.pdb
+C:\Users\Hoang Van Duc\source\repos\window\window\obj\Debug\window.csproj.AssemblyReference.cache
+C:\Users\Hoang Van Duc\source\repos\window\window\obj\Debug\window.Form1.resources
+C:\Users\Hoang Van Duc\source\repos\window\window\obj\Debug\window.csproj.GenerateResource.cache
+C:\Users\Hoang Van Duc\source\repos\window\window\obj\Debug\window.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Van Duc\source\repos\window\window\obj\Debug\window.exe
+C:\Users\Hoang Van Duc\source\repos\window\window\obj\Debug\window.pdb
